@@ -16,6 +16,5 @@ Import and visualize the data by doing the following: Using Leaflet, create a ma
 
 Acknowledgements -Peer helped to define some of the initial map structure and syntax, escpecially when it came to defining new layers and editing styling
 I used other websites like  https://codepen.io/spark , https://medium.com and further 
-This assignment was done based on my experience as a beginner working with leaflet.js. In the beginning, it seems a bit hard to understand the code without the basic knowledge of javascript and Html.
-
+This assignment was done based on my experience as a beginner working with leaflet.js. 
 LeafletJS is an open-source Javascript library developed by Vladimir Agafonkin which supports most of the desktop and mobile platforms.
